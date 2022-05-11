@@ -1,0 +1,13 @@
+
+
+#titulo{
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+    
+}
+.tablas{
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+}
